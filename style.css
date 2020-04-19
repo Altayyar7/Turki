@@ -166,6 +166,6 @@ footer {
   }
 
   footer {
-    text-align: center;
+    <footer align="center">
   }
 }
